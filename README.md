@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->### Cytometry in R - starter questions
+
+- Favorite Flourophore: Cy5
+
+-Previous coding experience: none
+
+-What do you hope to get from this course: experience using R for visualizations
