@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 - Previous coding experience: none
 
 - What do you hope to get from this course: using R for visualizations
-
-- 
